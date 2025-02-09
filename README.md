@@ -5,8 +5,8 @@ Simple Brainfuck interpreter with 30,000 8-bit cells and standard operations (`+
 ## Install & Run
 
 ```bash
-git clone https://github.com/yourusername/brainfuck-interpreter
-cd brainfuck-interpreter
+git clone https://github.com/gaurav-bhardwaj29/bfinterpreter
+cd bfinterpreter
 make
 ./bf program.bf
 ```
