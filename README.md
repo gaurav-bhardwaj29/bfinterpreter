@@ -1,4 +1,5 @@
 # Brainfuck Interpreter
+![Socialify Image](https://socialify.git.ci/gaurav-bhardwaj29/bfinterpreter/image?custom_description=execute+esoteric+code&description=1&font=Source+Code+Pro&language=1&name=1&pattern=Signal&stargazers=1&theme=Light)
 
 Simple Brainfuck interpreter with 30,000 8-bit cells and standard operations (`+-<>[],.`).
 
@@ -29,6 +30,10 @@ Hello World:
 
 ```bash
 make test
+```
+
+
+
 ```
 
 ## License
